@@ -1,4 +1,6 @@
 # Deep Learning Computer Vision
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 Computer vision toolkit featuring image classification, object detection, and pre-trained model implementations using PyTorch and TensorFlow.
 
