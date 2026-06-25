@@ -23,7 +23,7 @@ Production-ready deep learning models for computer vision tasks including image 
 ## Installation
 
 ```bash
-git clone https://github.com/AmirAsaad/deep-learning-computer-vision.git
+git clone https://github.com/amori27/deep-learning-computer-vision.git
 cd deep-learning-computer-vision
 pip install -r requirements.txt
 ```
